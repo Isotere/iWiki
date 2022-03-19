@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 pip3 install jupyterlab
+pip3 install --upgrade jupyterlab
 
 #For MAC
 mkdir ~/Library/Jupyter/kernels && \
