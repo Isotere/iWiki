@@ -2,6 +2,7 @@
 
 pip3 install jupyterlab
 pip3 install --upgrade jupyterlab
+pip3 install jupyterlab_latex
 
 #For MAC
 mkdir ~/Library/Jupyter/kernels && \
